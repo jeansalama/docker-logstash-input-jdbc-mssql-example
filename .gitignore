@@ -1,0 +1,11 @@
+# Tmp files
+*~
+*.swo
+*.swp
+
+# IDE
+.vscode
+
+# Local
+*local*
+.env
